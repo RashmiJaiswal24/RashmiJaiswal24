@@ -29,7 +29,7 @@ I specialize in cleaning, analyzing, and visualizing datasets using *SQL, Power 
 ### 🔵 [Salon Revenue & Customer Retention Analysis](https://github.com/mansuradeola/Salon-Revenue-Customer-Retention-Analysis)
 Analysed 12 months of transactional data to uncover revenue trends, peak service periods, and at-risk customer segments. Delivered a Power BI dashboard enabling targeted retention campaigns and data-backed pricing decisions.
 
-`Excel` `SQL` `Power BI`
+`Excel` `MySQL` `Power BI`
 
 ---
 
@@ -60,8 +60,7 @@ Quantified the COVID-19 impact on hardware sales by analyzing Q3 FY2020 data, tr
 
 I am open to internships or full-time opportunities.
 
-[![LinkedIn](https://img.shields.io/badge/![LinkedIn](https://img.shields.io/badge/LinkedIn-Rashmi%20Jaiswal-0077B5?style=flat&logo=linkedin&logoColor=white))](https://www.linkedin.com/in/rashmijaiswal24)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rashmi%20Jaiswal-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/www.linkedin.com/in/rashmijaiswal24)
 [![Portfolio]()]()
 [![Email](https://img.shields.io/badge/Email-Rashmi%20Jaiswal-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jaiswalrashmia@gmail.com)
 
