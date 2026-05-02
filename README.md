@@ -60,8 +60,10 @@ Quantified the COVID-19 impact on hardware sales by analyzing Q3 FY2020 data, tr
 
 I am open to internships or full-time opportunities.
 
-[![LinkedIn](www.linkedin.com/in/rashmijaiswal24)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mansur%20Adeola-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rashmijaiswal24)
+
 [![Portfolio]()]()
-[![Email]()](mailto:jaiswalrashmia@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Get%20In%20Touch-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mansuradeola@gmail.com)
+
 
 ---
